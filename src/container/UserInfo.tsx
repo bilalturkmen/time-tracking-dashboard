@@ -15,7 +15,12 @@ const UserInfo = ({ setPeriod, period }: UserInfoProps) => {
   return (
     <div className="user--card ">
       <div className="user--info space">
-        <img src={UserImg} alt="Profile picture of user" />
+        <img
+          src={UserImg}
+          alt="Profile picture of user"
+          width={78}
+          height={78}
+        />
         <section>
           <p>Report for</p>
           <h1>Jeremy Robson</h1>
@@ -26,7 +31,6 @@ const UserInfo = ({ setPeriod, period }: UserInfoProps) => {
           <button
             key={option}
             type="button"
-            title={option[0].toUpperCase() + option.slice(1)}
             onClick={() => handlePeriodChange(option)}
             className={clsx(period === option ? "active" : "")}
           >
