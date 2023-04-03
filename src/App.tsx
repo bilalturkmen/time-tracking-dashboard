@@ -2,7 +2,7 @@ import { useState } from "react";
 import { UserInfo, UserActivity, FooterAttribution, fdata } from "./components";
 
 function App() {
-  const [period, setPeriod] = useState("daily");
+  const [period, setPeriod] = useState("weekly");
 
   return (
     <>
