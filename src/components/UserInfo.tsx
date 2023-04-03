@@ -1,5 +1,5 @@
 import clsx from "clsx";
-import { UserImg } from "../components";
+import { UserImg } from ".";
 
 type UserInfoProps = {
   setPeriod: React.Dispatch<React.SetStateAction<string>>;

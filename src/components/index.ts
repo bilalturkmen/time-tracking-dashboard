@@ -1,10 +1,8 @@
 // components
 import ActivityCard from "./ActivityCard";
 import FooterAttribution from "./FooterAttribution";
-
-// containers
-import UserActivity from "../container/UserActivity";
-import UserInfo from "../container/UserInfo";
+import UserActivity from "./UserActivity";
+import UserInfo from "./UserInfo";
 
 // images
 import UserImg from "../assets/image-jeremy.png";

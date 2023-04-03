@@ -170,6 +170,17 @@ body {
   height: 10rem;
   border-radius: 1rem 1rem 1.2rem 1.2rem;
   position: relative;
+  animation: myCard 0.3s ease 0s 1 normal forwards;
+}
+
+@keyframes myCard {
+  0% {
+    transform: scale(0.5);
+  }
+
+  100% {
+    transform: scale(1);
+  }
 }
 
 .category--img {

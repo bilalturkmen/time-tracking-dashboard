@@ -1,4 +1,4 @@
-import { ActivityCard, data } from "../components";
+import { ActivityCard, data } from ".";
 
 interface Props {
   period: string;
