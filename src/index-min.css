@@ -93,7 +93,7 @@ body {
   display: grid;
   grid-auto-flow: row;
   grid-gap: 1.875rem;
-  margin-top: 5rem;
+  margin-top: 4.75rem;
 }
 
 /* User Info */
