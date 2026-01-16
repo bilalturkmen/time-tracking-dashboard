@@ -1,7 +1,7 @@
 <h1>Time tracking dashboard</h1>
 <div>
   <h3>
-    <a href="https://splendid-sopapillas-57ee77.netlify.app/"> Live View </a>
+    <a href="https://ttdashboardx.netlify.app/"> Live View </a>
     <span> | </span>
     <a href="https://www.frontendmentor.io/solutions/time-tracking-dashboard-with-react-ts-njkwXa4usV"> Solution Page </a>
   </h3>
