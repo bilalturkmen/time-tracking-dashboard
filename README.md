@@ -19,7 +19,7 @@
 ![](./public/screenshot.jpg)
 
 - High score received from [PageSpeed Insights](https://pagespeed.web.dev/analysis/https-ttdashboardx-netlify-app/on3z9j4xr0?form_factor=mobile)
-  ![](./public/ps-screen.png)
+  ![](./public/ps-screeen.png)
 
 ## 🎉 Build With:
 
