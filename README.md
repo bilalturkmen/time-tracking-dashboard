@@ -15,9 +15,11 @@
 - Custom components created.
 - I tried displaying the data by time period and changing the card color by category.
 - And efforts were made to provide a good user experience.
-- High score received from [PageSpeed Insights](https://pagespeed.web.dev/analysis/https-ttdashboardx-netlify-app/on3z9j4xr0?form_factor=mobile)
 
 ![](./public/screenshot.jpg)
+
+- High score received from [PageSpeed Insights](https://pagespeed.web.dev/analysis/https-ttdashboardx-netlify-app/on3z9j4xr0?form_factor=mobile)
+  ![](./public/ps-screen.png)
 
 ## 🎉 Build With:
 
