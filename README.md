@@ -1,4 +1,5 @@
-<h1>Time tracking dashboard</h1>
+# Time tracking dashboard
+
 <div>
   <h3>
     <a href="https://ttdashboardx.netlify.app/"> Live View </a>
